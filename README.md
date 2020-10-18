@@ -3,12 +3,16 @@
 
 Steps to get started:
 
-- Assuming that you have docker and docker-compose installed on your machine, run the following instructions
+    Assuming that you have docker and docker-compose installed on your machine, run the following instructions
 
     $ docker-compose build # in order to build the docker image
+    
     $ alias mix="docker-compose run --rm phoenix mix" # If you already have elixir installed locally you can skip this command
+
     $ mix ecto.create # initializes the database with Ecto
+    
     $ mix ecto.migrate # runs database migrations
+    
     $ docker-compose up # to start the application
 
 
