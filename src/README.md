@@ -2,7 +2,7 @@
 
 Things to do:
 
-[] Create a file docker-compose.yml and create a configuration
+[ ] Bring back Travis Continuous Integration
 
 To start your Phoenix server:
 
