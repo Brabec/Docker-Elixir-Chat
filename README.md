@@ -3,7 +3,7 @@
 
 Steps to get started:
 
-- Assuming that you have docker and docker-compose installed on your machine, run the following instructions
+    Assuming that you have docker and docker-compose installed on your machine, run the following instructions
 
     $ docker-compose build # in order to build the docker image
     
